@@ -1,4 +1,4 @@
- Análise Estratégica para o Sucesso Cinematográ
+ Análise Estratégica para o Sucesso Cinematográfico.
 
 ## Objetivo do Projeto
 
